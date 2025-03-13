@@ -106,6 +106,7 @@
 				</style>
 				<td><button type = "button" id = "cancelButton" onclick = "dialogBox()">Cancel Booking</button></td>
 				<td><input type = "submit" value = "Home" formaction = "index.jsp"/></td>
+				<td><input type = "submit" value = "Payment" formaction = "payment.jsp"/></td>
 
 			</tr>
 		</table>

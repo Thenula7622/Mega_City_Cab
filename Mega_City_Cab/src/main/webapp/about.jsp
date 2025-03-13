@@ -122,7 +122,7 @@
                   <div class="right-content">
                     <span>Mega City Cab</span>
                     <h2>Get to know about <em>our company</em></h2>
-                    <p>At Mega City Cab everything we do is about giving you the freedom to discover more. Weâll move mountains to find you the right rental car, and bring you a smooth, hassle-free experience from start to finish. Here you can find out more about how we work. 
+                    <p>At Mega City Cab everything we do is about giving you the freedom to discover more. We all move mountains to find you the right rental car, and bring you a smooth, hassle-free experience from start to finish. Here you can find out more about how we work. 
                     </p>
                   </div>
                 </div>
