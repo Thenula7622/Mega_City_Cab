@@ -5,7 +5,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>Car Rental Website</title>
+    <title>Mega City Cab</title>
     <link rel="stylesheet" href="assets\css\login.css">
   </head>
   <body>

@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
 
-    <title>Car Rental Website</title>
+    <title>Mega City Cab</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -38,8 +38,8 @@
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <ul class="left-info">
-              <li><a href="#"><i class="fa fa-envelope"></i>rentcar@company.com</a></li>
-              <li><a href="#"><i class="fa fa-phone"></i>123-456-7890</a></li>
+              <li><a href="#"><i class="fa fa-envelope"></i>megacitycab@company.com</a></li>
+              <li><a href="#"><i class="fa fa-phone"></i>0768202700</a></li>
             </ul>
           </div>
           <div class="col-md-4">
@@ -56,7 +56,7 @@
     <header class="">
       <nav class="navbar navbar-expand-lg">
         <div class="container">
-          <a class="navbar-brand" href="index.jsp"><h2>Car Rent<em>.com</em></h2></a>
+          <a class="navbar-brand" href="index.jsp"><h2>Mega City Cab</h2></a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -116,23 +116,23 @@
         <div class="more-info-content">
           <div class="right-content">
             
-            <h5>1. Car Rent.com Website</h5>
+            <h5>1. Mega City Cab Website</h5>
             <br>  
-            <p>These Terms & Conditions apply to transactions made on the Rentalcars.com website. Products purchased through the Rentalcars.com website are offered by Rentalcars.com, and the Terms & Conditions of Rentalcars.com governs such transactions. The Terms & Conditions on the Rentalcars.com website are applicable to any transaction made on the Rentalcars.com website.</p>
+            <p>These Terms & Conditions apply to transactions made on the Mega City Cab website. Products purchased through the Mega City Cab website are offered by Mega City Cab, and the Terms & Conditions of Mega City Cab governs such transactions. The Terms & Conditions on the Mega City Cab website are applicable to any transaction made on the Mega City Cab website.</p>
 
             <br>
 
             
             <h5>2. Copyright Notice</h5>
             <br>  
-            <p>You, the User, acknowledge that all content included on this Site, including the information, data, software, photographs, graphs, video, typefaces, graphics, music, sounds, images, illustrations, maps, designs, icons, written and other material (collectively, ‚ÄúContent‚Äù) and the arrangement and compilation of the Content are intellectual property and copyrighted works of Rentalcars.com and/or its third-party providers including, without limitation, the airline, hotels, rental car companies and other travel suppliers that provide travel or other services through this Site (‚ÄúProviders‚Äù). Reproduction or storage of information or works retrieved from this Site, in all forms, media and technologies now existing or hereafter developed, is subject to the U.S. Copyright Act of 1976, Title 17 of the United States Code, or other applicable laws, and all applicable international copyright treaties and conventions, including without limitation, the Berne Convention and the Universal Copyright Convention.</p>
+            <p>You, the User, acknowledge that all content included on this Site, including the information, data, software, photographs, graphs, video, typefaces, graphics, music, sounds, images, illustrations, maps, designs, icons, written and other material (collectively, ‚ÄúContent‚Äù) and the arrangement and compilation of the Content are intellectual property and copyrighted works of Mega City Cab and/or its third-party providers including, without limitation, the airline, hotels, rental car companies and other travel suppliers that provide travel or other services through this Site (ProvidersÄù). Reproduction or storage of information or works retrieved from this Site, in all forms, media and technologies now existing or hereafter developed, is subject to the U.S. Copyright Act of 1976, Title 17 of the United States Code, or other applicable laws, and all applicable international copyright treaties and conventions, including without limitation, the Berne Convention and the Universal Copyright Convention.</p>
 
             <br>
 
             
             <h5>3. Trademark Notice</h5>
             <br>  
-            <p>‚ÄúRENTALCARS.COM‚Äù and ‚ÄúBooking.com Transport Limited‚Äù are registered service marks of Booking.com Transport Limited. Other product and company names identified on this Site may be the name, trademark, trade name, service mark, logo, symbol or other proprietary designation of Rentalcars.com or a third-party. The use on this Site of any name, trade name, trademark, service mark, logo, symbol or other proprietary designation or marking of or belonging to any third-party, and the availability of specific goods or services from such third-party through this Site, should not be construed as an endorsement or sponsorship of this Site by any such third-party, or the participation by such third-party in the offering of goods, services or information through this Site.</p>
+            <p>Mega City CabÄù and ÄúBooking.com Transport LimitedÄù are registered service marks of Booking.com Transport Limited. Other product and company names identified on this Site may be the name, trademark, trade name, service mark, logo, symbol or other proprietary designation of Rentalcars.com or a third-party. The use on this Site of any name, trade name, trademark, service mark, logo, symbol or other proprietary designation or marking of or belonging to any third-party, and the availability of specific goods or services from such third-party through this Site, should not be construed as an endorsement or sponsorship of this Site by any such third-party, or the participation by such third-party in the offering of goods, services or information through this Site.</p>
 
             <br>
 
@@ -155,8 +155,8 @@
       <div class="container">
         <div class="row">
           <div class="col-md-3 footer-item">
-            <h4><a href="about.jsp"></a>CarRent.com</h4>
-            <p>With flexible rental options and a wide network that's visible across most cities in India, renting from carRent.com has become the preferred choice for most Delhi NCR locals.</p>
+            <h4><a href="about.jsp"></a>Mega City Cab</h4>
+            <p>With flexible rental options and a wide network that's visible across most cities in Sri Lanka, renting from Mega City Cab has become the preferred choice for most Sri Lanka NCR locals.</p>
             <ul class="social-icons">
               <li><a rel="nofollow" href="#" target="_blank"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -166,9 +166,7 @@
           <div class="col-md-3 footer-item">
             <h4>Made By</h4>
             <ul class="menu-list">
-              <li><a href="team.jsp">Vivek Singh Adhikari</a></li>
-              <li><a href="team.jsp">Piyush Upadhyay</a></li>
-              <li><a href="team.jsp">Rakesh Kumar Yadav</a></li>
+              <li><a href="team.jsp">Thenula Rathnayake</a></li>
             </ul>
           </div>
           <div class="col-md-3 footer-item">
@@ -218,7 +216,7 @@
         <div class="row">
           <div class="col-md-12">
             <p>
-                Copyright ¬© 2022<br> Vivek Singh Adhikari / Piyush Upadhyay / Rakesh Kumar Yadav
+                Copyright © 2025<br> Thenula Rathnayake
             </p>
           </div>
         </div>

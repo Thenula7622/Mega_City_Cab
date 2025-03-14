@@ -118,7 +118,7 @@
         <div class="row">
           <div class="col-md-12">
             <p>
-                Copyright © 2022<br> Vivek Singh Adhikari / Piyush Upadhyay / Rakesh Kumar Yadav
+                Copyright © 2025<br> Thenula Rathnayake
             </p>
           </div>
         </div>

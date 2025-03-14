@@ -7,7 +7,7 @@
 <head>
 <meta charset="UTF-8">
 <link rel="stylesheet" href="assets\css\login.css">
-<title>Car Rental Website</title>
+<title>Mega City Cab</title>
 </head>
 <body>
 	<div class = "center" style = "width: 60%;">

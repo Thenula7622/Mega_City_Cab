@@ -148,7 +148,7 @@
 		ResultSet result = statement.executeQuery();
 		
 		//table coding
-		out.println("<center>");
+		out.println("<center>");+
 		out.println("<table>");
 		out.println("<tr>");
 		out.println("<th>Booking ID</th>");
@@ -163,7 +163,7 @@
 		
 		while(result.next()){
 			//out.println("| " + result.getString(1) + " | " + result.getString(2) + " |<br>");
-			if("cancelled".equals(result.getString(11))){
+			if("cancelled".equals(result.getString(9))){
 				out.println("<tr style = \"background-color : #ff6363\">");
 			}
 			else{
