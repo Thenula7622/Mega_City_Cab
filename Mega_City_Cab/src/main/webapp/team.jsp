@@ -38,7 +38,7 @@
         <div class="row">
           <div class="col-md-8 col-xs-12">
             <ul class="left-info">
-              <li><a href="#"><i class="fa fa-envelope"></i>megacitycab@company.com</a></li>
+              <li><a href="#"><i class="fa fa-envelope"></i>mega citycab@company.com</a></li>
               <li><a href="#"><i class="fa fa-phone"></i>0768202700</a></li>
             </ul>
           </div>

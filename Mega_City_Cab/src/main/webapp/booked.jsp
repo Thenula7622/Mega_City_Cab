@@ -118,7 +118,7 @@
 			<div id = "content">
 				<div id = "inside">!</div>
 				</div>
-			&nbsp; Your booking has been canceled.
+			Your booking has been canceled.
 			<button type = "button" id = "cancelButton" style = "width: 150px;float: right" onclick = "location.href = 'index.jsp';">Continue</button>
 	</div>
 	<script>

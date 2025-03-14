@@ -265,7 +265,7 @@
       <div class="row">
         <div class="col-md-12">
           <p>
-              Copyright © 2025<br> Thenula Rathnayke
+              Copyright © 2025<br> Thenula Rathnayka
           </p>
         </div>
       </div>

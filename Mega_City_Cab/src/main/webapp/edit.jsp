@@ -118,7 +118,7 @@
         <div class="row">
           <div class="col-md-12">
             <p>
-                Copyright © 2025<br> Thenula Rathnayake
+                Copyright © 2025<br> Thenula Rathnayaka
             </p>
           </div>
         </div>
