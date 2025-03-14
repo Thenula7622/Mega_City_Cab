@@ -148,7 +148,7 @@
 		ResultSet result = statement.executeQuery();
 		
 		//table coding
-		out.println("<center>");+
+		out.println("<center>");
 		out.println("<table>");
 		out.println("<tr>");
 		out.println("<th>Booking ID</th>");
