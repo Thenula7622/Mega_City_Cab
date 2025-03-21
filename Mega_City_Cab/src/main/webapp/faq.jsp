@@ -22,7 +22,7 @@
 
   <body>
 
-    <!-- ***** Preloader Start ***** -->
+    <!-- Preloader Start -->
     <div id="preloader">
         <div class="jumper">
             <div></div>
@@ -30,7 +30,7 @@
             <div></div>
         </div>
     </div>  
-    <!-- ***** Preloader End ***** -->
+    
 
     <!-- Header -->
     <div class="sub-header">
@@ -150,7 +150,7 @@
       </div>
     </div>
 
-    <!-- Footer Starts Here -->
+    <!-- Footer  -->
     <footer>
       <div class="container">
         <div class="row">

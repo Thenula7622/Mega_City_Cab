@@ -27,7 +27,7 @@
 
   <body>
 
-    <!-- ***** Preloader Start ***** -->
+    <!-- Preloader Start -->
     <div id="preloader">
         <div class="jumper">
             <div></div>
@@ -35,7 +35,7 @@
             <div></div>
         </div>
     </div>  
-    <!-- ***** Preloader End ***** -->
+    
 
     <!-- Header -->
     <div class="sub-header">
@@ -125,7 +125,7 @@
               <div class="down-content">
                 <h4>Maruti Suzuki Wagon R</h4>
                 <div style="margin-bottom:10px;">
-                  <span>1500/Day<sub>&nbsp;<s>3000/day</s></sub></span>
+                  <span>Rs 1500/Day<sub>&nbsp;<s>3000/day</s></sub></span>
                 </div>
                 <p>Applicable on bookings with minimum duration of 3 days<br>
                   Not applicable on bookings where fuel is included<br>
@@ -142,7 +142,7 @@
               <div class="down-content">
                 <h4>Toyota RAV4 Prime</h4>
                 <div style="margin-bottom:10px;">
-                  <span>1900/Day<sub>&nbsp;<s>4800/day</s></sub></span>
+                  <span>Rs 1900/Day<sub>&nbsp;<s>4800/day</s></sub></span>
                 </div>
                 <p>Applicable on bookings with minimum duration of 3 days<br>
                   Not applicable on bookings where fuel is included<br>
@@ -159,7 +159,7 @@
               <div class="down-content">
                 <h4>Toyota RAV4 Prime</h4>
                 <div style="margin-bottom:10px;">
-                  <span>2500/Day<sub>&nbsp;<s>6000/day</s></sub></span>
+                  <span>Rs 2500/Day<sub>&nbsp;<s>6000/day</s></sub></span>
                 </div>
                 <p>Applicable on bookings with minimum duration of 3 days<br>
                   Not applicable on bookings where fuel is included<br>
@@ -177,7 +177,7 @@
               <div class="down-content">
                 <h4>Volkswagen Passat</h4>
                 <div style="margin-bottom:10px;">
-                  <span>2100/Day<sub>&nbsp;<s>5000/day</s></sub></span>
+                  <span>Rs 2100/Day<sub>&nbsp;<s>5000/day</s></sub></span>
                 </div>
                 <p>Applicable on bookings with minimum duration of 3 days<br>
                   Not applicable on bookings where fuel is included<br>
@@ -195,7 +195,7 @@
               <div class="down-content">
                 <h4>Volkswagen Golf</h4>
                 <div style="margin-bottom:10px;">
-                  <span>1500/Day<sub>&nbsp;<s>3400/day</s></sub></span>
+                  <span>Rs 1500/Day<sub>&nbsp;<s>3400/day</s></sub></span>
                 </div>
                 <p>Applicable on bookings with minimum duration of 3 days<br>
                     Not applicable on bookings where fuel is included<br>
@@ -213,7 +213,7 @@
               <div class="down-content">
                 <h4>Ford Mustang</h4>
                 <div style="margin-bottom:10px;">
-                  <span>3000/Day<sub>&nbsp;<s>8000/day</s></sub></span>
+                  <span>Rs 3000/Day<sub>&nbsp;<s>8000/day</s></sub></span>
                 </div>
                 <p>Applicable on bookings with minimum duration of 3 days<br>
                   Not applicable on bookings where fuel is included<br>
@@ -256,7 +256,7 @@
       </div>
     </div>
 
-    <!-- Footer Starts Here -->
+    <!-- Footer -->
     <footer>
       <div class="container">
         <div class="row">

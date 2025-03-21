@@ -22,7 +22,7 @@
 
   <body>
 
-    <!-- ***** Preloader Start ***** -->
+    <!-- Preloader Start -->
     <div id="preloader">
         <div class="jumper">
             <div></div>
@@ -30,7 +30,7 @@
             <div></div>
         </div>
     </div>  
-    <!-- ***** Preloader End ***** -->
+    
 
     <!-- Header -->
     <div class="sub-header">
@@ -189,17 +189,12 @@
     </div>
 
     <div id="map">
-<!-- How to change your own map point
-	1. Go to Google Maps
-	2. Click on your location point
-	3. Click "Share" and choose "Embed map" tab
-	4. Copy only URL and paste it within the src="" field below
--->
+
    
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3579.8282441720607!2d80.35334277448646!3d7.483025811270897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae33a1f7879a5eb%3A0x6685624e150b9e35!2sICBT%20Kurunegala%20Campus!5e1!3m2!1sen!2slk!4v1741826312873!5m2!1sen!2slk" width="100%" height="500px" frameborder="0" style="border:0" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
   </div>
   
-  <!-- Footer Starts Here -->
+  <!-- Footer -->
   <footer>
     <div class="container">
       <div class="row">
