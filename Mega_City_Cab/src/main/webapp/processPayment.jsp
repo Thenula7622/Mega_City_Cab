@@ -14,9 +14,9 @@
     double amount = Double.parseDouble(amountStr);
 
     // Database Connection
-    String url = "jdbc:mysql://localhost:3306/car_rental"; // Update database name
-    String user = "root"; // Your DB username
-    String password = "root"; // Your DB password
+    String url = "jdbc:mysql://localhost:3306/car_rental";
+    String user = "root"; // DB username
+    String password = "thenula7622#"; // DB password
 
     Connection conn = null;
     PreparedStatement pst = null;
@@ -25,7 +25,7 @@
         Class.forName("com.mysql.cj.jdbc.Driver");
         conn = DriverManager.getConnection(url, user, password);
 
-        // Insert payment record into database
+        // payment record into database
         String sql = "INSERT INTO payments (booking_id, payment_method, amount, payment_date) VALUES (?, ?, ?, NOW())";
         pst = conn.prepareStatement(sql);
         pst.setString(1, bookingId);
