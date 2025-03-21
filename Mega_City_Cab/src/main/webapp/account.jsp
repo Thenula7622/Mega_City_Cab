@@ -25,7 +25,7 @@
 
   <body>
 
-    <!-- ***** Preloader Start ***** -->
+    <!-- Preloader Start -->
     <div id="preloader">
         <div class="jumper">
             <div></div>
@@ -33,7 +33,7 @@
             <div></div>
         </div>
     </div>  
-    <!-- ***** Preloader End ***** -->
+    <!-- Preloader End -->
 
     <!-- Header -->
     <div class="sub-header">
@@ -169,14 +169,14 @@
 			else{
 				out.println("<tr>");
 			}
-			out.println("<td>" + result.getString(10) + "</td>");
-			out.println("<td>" + result.getString(9) + "</td>");
-			out.println("<td>" + result.getString(1) + "</td>");
-			out.println("<td>" + result.getString(2) + "</td>");
-			out.println("<td>" + result.getString(3) + " to " + result.getString(3) + "</td>");
-			out.println("<td>" + result.getString(5) + "</td>");
-			out.println("<td>" + result.getString(7) + "</td>");
-			out.println("<td>" + result.getString(11) + "</td>");
+			out.println("<td>" + result.getString(9) + "</td>"); 
+		    out.println("<td>" + result.getString(3) + "</td>"); 
+		    out.println("<td>" + result.getString(1) + "</td>"); 
+		    out.println("<td>" + result.getString(2) + "</td>"); 
+		    out.println("<td>" + result.getString(4) + "</td>"); 
+		    out.println("<td>" + result.getString(5) + "</td>"); 
+		    out.println("<td>" + result.getString(7) + "</td>"); 
+		    out.println("<td>" + result.getString(8) + "</td>"); 
 			
 			//out.println("<td>");
 			
@@ -200,7 +200,7 @@
     </div>
     
     
-    <!-- Footer Starts Here -->
+    <!-- Footer -->
     <footer>
       <div class="container">
         <div class="row">
