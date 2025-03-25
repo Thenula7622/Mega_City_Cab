@@ -53,20 +53,31 @@
         </form>
   
  <%
- 	String url = "jdbc:mysql://localhost:3306/car_rental";
-	String uname = "root";
-	String passwd = "thenula7622#";
-	Class.forName("com.mysql.cj.jdbc.Driver");
-	Connection conn = DriverManager.getConnection(url, uname, passwd);
-	
-	String id = request.getParameter("booking_ID");
-	PreparedStatement statement = conn.prepareStatement("UPDATE booking SET booking_status = 'cancelled' WHERE booking_ID = ?");
-	statement.setString(1, id);
-	
-	int flag = statement.executeUpdate();
-	if(flag > 0){
-		response.sendRedirect("account.jsp");
-	}
+ String id = request.getParameter("booking_ID");
+
+//Debugging: Check if ID is received
+System.out.println("Received booking_ID: " + id);
+
+if (id == null || id.isEmpty()) {
+  System.out.println("Error: booking_ID is null or empty.");
+  response.sendRedirect("account.jsp");
+  return;
+}
+
+Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/car_rental", "root", "thenula7622#");
+
+PreparedStatement statement = conn.prepareStatement("UPDATE booking SET booking_status = 'cancelled' WHERE id = ?");
+statement.setInt(1, Integer.parseInt(id)); // Use setInt instead of setString
+
+int flag = statement.executeUpdate();
+
+if (flag > 0) {
+  response.sendRedirect("account.jsp");
+} else {
+  System.out.println("Error: No rows updated.");
+}
+
+
  
  %>
   
